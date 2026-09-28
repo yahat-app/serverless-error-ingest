@@ -132,4 +132,4 @@ jobs:
             lambda/ingest/function.zip
             lambda/ingest/function.zip.sha256
           if-no-files-found: error
-          retention-days: 30
+          retention-days: 3
